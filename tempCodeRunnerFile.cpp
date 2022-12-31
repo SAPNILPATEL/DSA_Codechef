@@ -1,0 +1,2 @@
+sotream>
+int main()
